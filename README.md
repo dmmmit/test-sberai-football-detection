@@ -1,10 +1,13 @@
 # Тестовое задание на тему "Детекция и трекинг футбольного мяча" 
 
 ## Датасет
-[Датасет SoccerNet](https://github.com/SoccerNet)
+[Датасет SoccerNet](https://github.com/SoccerNet/sn-gamestate?tab=readme-ov-file#manual-downloading-of-soccernet-gamestate)
 
 ## Готовые модели
 [Готовые модели](https://drive.google.com/drive/folders/1OjVZOkpxtzomTt7k5JNHmKylUlr5-jPO?usp=sharing)
+
+## Финальные обработанные видео
+[Видео](https://drive.google.com/drive/folders/1D29nDXVii0QpQhrRS-EG_Tt2sgi5dCuO?usp=sharing)
 
 ## Инструкция по запуску
 В ходе работы был создан Jupyter Book. Чтобы полностью протестировать его и получить предсказания на видео, стоит просто запускать его по пунктам, обращая внимание на некоторые дополнения в заголовках. Для детекции и трекинга использовалась библиотека **Detectron2**. 
